@@ -1,0 +1,13 @@
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\bin\Debug\netcoreapp3.1\POO2_Devoir.exe
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\bin\Debug\netcoreapp3.1\POO2_Devoir.deps.json
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\bin\Debug\netcoreapp3.1\POO2_Devoir.runtimeconfig.json
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\bin\Debug\netcoreapp3.1\POO2_Devoir.runtimeconfig.dev.json
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\bin\Debug\netcoreapp3.1\POO2_Devoir.dll
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\bin\Debug\netcoreapp3.1\POO2_Devoir.pdb
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.csprojAssemblyReference.cache
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.AssemblyInfoInputs.cache
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.AssemblyInfo.cs
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.csproj.CoreCompileInputs.cache
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.dll
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.pdb
+C:\Users\leome\OneDrive\Bureau\POO2_Devoir\obj\Debug\netcoreapp3.1\POO2_Devoir.genruntimeconfig.cache

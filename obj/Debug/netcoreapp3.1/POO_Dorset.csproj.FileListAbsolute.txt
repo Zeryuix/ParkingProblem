@@ -1,0 +1,13 @@
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\bin\Debug\netcoreapp3.1\POO_Dorset.exe
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\bin\Debug\netcoreapp3.1\POO_Dorset.deps.json
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\bin\Debug\netcoreapp3.1\POO_Dorset.runtimeconfig.json
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\bin\Debug\netcoreapp3.1\POO_Dorset.runtimeconfig.dev.json
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\bin\Debug\netcoreapp3.1\POO_Dorset.dll
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\bin\Debug\netcoreapp3.1\POO_Dorset.pdb
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.csprojAssemblyReference.cache
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.csproj.CoreCompileInputs.cache
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.AssemblyInfoInputs.cache
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.AssemblyInfo.cs
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.dll
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.pdb
+C:\Users\leome\OneDrive\Bureau\POO_Dorset\obj\Debug\netcoreapp3.1\POO_Dorset.genruntimeconfig.cache
